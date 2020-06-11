@@ -24,4 +24,4 @@ def find_min_in_nested_arrays(src)
     return min
 end
 
-puts find_min_in_nested_arrays(array_of_daily_temperatures)
+find_min_in_nested_arrays(array_of_daily_temperatures)
